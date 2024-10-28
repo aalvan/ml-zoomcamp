@@ -11,5 +11,3 @@ requests = "*"
 [dev-packages]
 ipykernel = "*"
 
-[requires]
-python_version = "3.12"
